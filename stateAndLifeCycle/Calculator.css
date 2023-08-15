@@ -1,0 +1,24 @@
+.calculatorBorder {
+    width: 280px;
+    height: 350px;
+    border: 2px solid black;
+    padding: 20px;
+    background-color: pink;
+}
+
+.input {
+    width: 236px;
+    height: 56px;
+}
+
+.btncalc {
+    width: 59px;
+    height: 50px;
+    background-color: black;
+    color: white;
+border-radius: 10px;
+}
+.downbutton{
+    display: flex;
+    justify-content: flex-end;
+}
