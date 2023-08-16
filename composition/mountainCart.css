@@ -1,0 +1,21 @@
+.moutiancpntainer{
+    display: flex;
+justify-content: space-evenly;
+}
+.cart{
+    width: 20rem;
+    height: 22rem;
+    
+ box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;;
+}
+.cart img{
+    width: 20rem;
+    height: 18rem;
+}
+.textmovement{
+    display: flex;
+    justify-content: space-between;
+}
+.textmovement h5{
+    color: red;
+}
